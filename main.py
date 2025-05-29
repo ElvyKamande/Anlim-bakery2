@@ -9,6 +9,6 @@ import models.worker
 import models.payroll
 import models.delivery
 
-# Create all tables
+
 Base.metadata.create_all(bind=engine)
 print("✅ All tables created.")

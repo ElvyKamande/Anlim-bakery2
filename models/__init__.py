@@ -6,4 +6,3 @@ from .order_item import OrderItem
 from .payment import Payment
 from .delivery import Delivery
 from .worker import Worker
-from .payroll import Payroll
